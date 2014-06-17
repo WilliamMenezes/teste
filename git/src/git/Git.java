@@ -8,7 +8,7 @@ package git;
 
 /**
  *
- * @author William
+ * @author Williamdf]]
  */
 public class Git
 {
